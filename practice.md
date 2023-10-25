@@ -1,6 +1,11 @@
 ![Static Badge](https://img.shields.io/badge/build-Version_1.0.0-%23FFFF00)
 
 
+[Introduction](#introduction)
+
+[Contact](#contact)
+
+[Favourite Concepts](#favourite-concepts)
 
 # OSZKAT
 <base target="_blank">
