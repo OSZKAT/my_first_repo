@@ -11,7 +11,7 @@
 <base target="_blank">
 
 # Introduction
->*Hello, I am leatning how to code. This is my first .md file*
+>*Hello, I am learning how to code. This is my first .md file*
 
 # Contact
 * Mail: oszvald.k@gmail.com
@@ -42,4 +42,4 @@
 ![Alt text](360_F_255397744_rwNCund3WjKsrsv6yKKpK8tzmJ8sYRnF-1.jpg)
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ziDDZdeObvA?si=LL23Mk3HczvG06iK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
